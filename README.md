@@ -1,0 +1,1 @@
+# A frontend weather app for Odin Project
